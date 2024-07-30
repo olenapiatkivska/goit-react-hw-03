@@ -1,0 +1,12 @@
+.searchBox {
+  display: flex;
+  flex-direction: column;
+  max-width: 310px;
+  margin-bottom: 15px;
+}
+.searchBoxInput {
+  border: 1px solid #000000a2;
+  border-radius: 5px;
+  width: 100%;
+  padding: 6px;
+}
